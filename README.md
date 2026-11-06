@@ -1,71 +1,108 @@
-# 👋 Hi, I'm Ghada Kaabi!
+<!-- ANIMATED INTRODUCTION -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DB829A&center=true&vCenter=true&width=650&lines=Business+Information+Systems+Student;Aspiring+Software+Developer;Passionate+about+Web+Technologies;Building+Ideas+into+Applications" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  🎓 Business Information Systems Student at ISG Tunis 🇹🇳
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171421,50:35204F,100:9B72CF&height=200&section=header&text=GHADA%20KAABI&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Business%20Information%20Systems%20Student&descAlignY=60&animation=fadeIn" width="100%" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=B78AFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Business+Information+Systems+Student;Aspiring+Software+Developer;Exploring+Technology+%26+Innovation" />
 
-## ✨ About Me
+<br/>
 
-I'm Ghada, a Business Information Systems student at the Higher Institute of Management of Tunis (ISG).
+<a href="https://github.com/kghada360-bit">
+<img src="https://img.shields.io/badge/GitHub-kghada360--bit-9B72CF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/Location-Tunisia-252535?style=for-the-badge&logo=googlemaps&logoColor=B78AFF"/>
+<img src="https://img.shields.io/badge/Status-Always%20Learning-35204F?style=for-the-badge&logo=bookstack&logoColor=white"/>
 
-- 💻 Interested in software development and web technologies.
-- 🗄️ Exploring databases and information systems.
-- 🚀 Building practical projects and improving my programming skills.
-- 📚 Always learning something new.
+</div>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 👩🏻‍💻 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,java,python,php,html,css,js,mysql,git,github,vscode" />
-</p>
+Hello! I'm **Ghada Kaabi**, a Business Information Systems student at the **Higher Institute of Management of Tunis (ISG)**.
+
+I'm passionate about technology, software development, and information systems. I enjoy transforming ideas into practical digital solutions and continuously improving my technical skills.
+
+- 🎓 Business Information Systems Student — ISG Tunis
+- 💻 Interested in Software & Web Development
+- 🗄️ Exploring Databases and Information Systems
+- 🚀 Learning through academic and personal projects
+- 🌱 Always curious, always learning
+
+---
+
+## ⚡ Tech Stack & Tools
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cs,java,python,php&theme=dark" />
+
+### Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+
+### Database & Development Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technology |
-|---|---|---|
-| [Social Network](https://github.com/kghada360-bit/Asd_Reseau_Social) | Social network represented using graphs | C |
-| [Veterinary Clinic](https://github.com/kghada360-bit/clinique-veterinaire-csharp) | Veterinary clinic management application | C# |
-| [Football Cup](https://github.com/kghada360-bit/coupe-football-java) | Football competition management | Java |
-| [Association Management](https://github.com/kghada360-bit/projetPeven-vbnet) | Association management application | VB.NET |
-| [Uber Cueillette](https://github.com/kghada360-bit/PWEB_uber_cueillette) | Platform connecting farmers and seasonal workers | PHP |
-| [Tourism Multi-Agent](https://github.com/kghada360-bit/tourisme-tunisie-multi-agent-orchestrator) | Multi-agent tourism workflow project | Python |
+<div align="center">
+
+<a href="https://github.com/kghada360-bit?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Projects-9B72CF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+I enjoy working on projects involving:
+
+- Software and application development
+- Database management
+- Web technologies
+- Business Information Systems
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kghada360-bit&show_icons=true&theme=rose&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kghada360-bit&layout=compact&theme=rose&hide_border=true" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kghada360-bit&theme=rose&hide_border=true" width="70%" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kghada360-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B78AFF&icon_color=B78AFF&text_color=FFFFFF"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kghada360-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B78AFF&text_color=FFFFFF"/>
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=kghada360-bit&theme=tokyonight&hide_border=true&background=0D1117&ring=B78AFF&fire=FF69B4&currStreakLabel=B78AFF"/>
+
+</div>
 
 ---
 
-## 🌷 Let's Connect
+## 🌐 Let's Connect
 
-<p align="center">
-  <a href="https://github.com/kghada360-bit">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>"Learning, building, and growing one project at a time."</i>
-</p>
+<a href="https://github.com/kghada360-bit">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Code. Learn. Create. Repeat.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B72CF,50:35204F,100:171421&height=120&section=footer" width="100%"/>
+
+</div>
