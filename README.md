@@ -53,78 +53,64 @@ I'm passionate about technology, software development, and information systems. 
 ---
 
 
+
 ## 🚀 Featured Projects
 
 <p align="center">
-  <i>Selected projects showcasing my skills in software development, databases and web technologies.</i>
+  <i>Building practical solutions through code and innovation.</i>
 </p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-<a href="https://github.com/kghada360-bit/tourisme-tunisie-multi-agent-orchestrator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kghada360-bit&repo=tourisme-tunisie-multi-agent-orchestrator&theme=tokyonight&hide_border=true" width="100%"/>
-</a>
-
-**🤖 Tourism Multi-Agent Orchestrator**
+### 🤖 Tourism Multi-Agent Orchestrator
 
 Secure multi-agent architecture for intelligent tourism workflows.
 
-`Python` `Multi-Agent Systems`
+- **Language:** Python
+- **Focus:** Multi-Agent Systems, Algorithms
+- **Repository:** [View Project →](https://github.com/kghada360-bit/tourisme-tunisie-multi-agent-orchestrator)
 
-</td>
-<td width="50%" valign="top">
+---
 
-<a href="https://github.com/kghada360-bit/clinique-veterinaire-csharp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kghada360-bit&repo=clinique-veterinaire-csharp&theme=tokyonight&hide_border=true" width="100%"/>
-</a>
+### 🏥 Veterinary Clinic Management
 
-**🏥 Veterinary Clinic Management**
+Desktop application for veterinary clinic management, connected to SQL Server.
 
-Clinic management application connected to SQL Server.
+- **Language:** C#
+- **Database:** SQL Server
+- **Repository:** [View Project →](https://github.com/kghada360-bit/clinique-veterinaire-csharp)
 
-`C#` `SQL Server`
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 🌾 Uber-Cueillette
 
-<a href="https://github.com/kghada360-bit/PWEB_uber_cueillette">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kghada360-bit&repo=PWEB_uber_cueillette&theme=tokyonight&hide_border=true" width="100%"/>
-</a>
+Dynamic web platform connecting farmers with seasonal agricultural workers.
 
-**🌾 Uber-Cueillette**
+- **Language:** PHP
+- **Focus:** Web Development
+- **Repository:** [View Project →](https://github.com/kghada360-bit/PWEB_uber_cueillette)
 
-Web platform connecting farmers with seasonal agricultural workers.
+---
 
-`PHP` `Web Development`
+### 🌐 Social Network
 
-</td>
-<td width="50%" valign="top">
+A weighted graph-based social network developed in C.
 
-<a href="https://github.com/kghada360-bit/Asd_Reseau_Social">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kghada360-bit&repo=Asd_Reseau_Social&theme=tokyonight&hide_border=true" width="100%"/>
-</a>
+- **Language:** C
+- **Focus:** Data Structures, Graph Algorithms
+- **Repository:** [View Project →](https://github.com/kghada360-bit/Asd_Reseau_Social)
 
-**🌐 Social Network**
-
-Weighted graph-based social network implemented in C.
-
-`C` `Data Structures`
-
-</td>
-</tr>
-</table>
+---
 
 <p align="center">
   <a href="https://github.com/kghada360-bit?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-B78AFF?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-B78AFF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
+
+
 
 
 ## 📊 GitHub Statistics
