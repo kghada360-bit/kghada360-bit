@@ -110,24 +110,28 @@ A weighted graph-based social network developed in C.
 
 ---
 
+---
 
+## 📚 Currently Learning
 
+- 💻 Advanced Python & Django REST Framework
+- ☕ Java Enterprise Edition (JEE)
+- 🗄️ Database Management & SQL
+- 🌐 Web Development
+- 🤖 Artificial Intelligence & Multi-Agent Systems
+
+---
 
 ## 📊 GitHub Statistics
 
-<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kghada360-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B78AFF&icon_color=B78AFF&text_color=FFFFFF"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kghada360-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B78AFF&text_color=FFFFFF"/>
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=kghada360-bit&theme=tokyonight&hide_border=true&background=0D1117&ring=B78AFF&fire=FF69B4&currStreakLabel=B78AFF" />
+</p>
 
-<br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=kghada360-bit&theme=tokyonight&hide_border=true&background=0D1117&ring=B78AFF&fire=FF69B4&currStreakLabel=B78AFF"/>
 
-</div>
-
----
 
 ## 🌐 Let's Connect
 
