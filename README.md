@@ -122,6 +122,17 @@ A weighted graph-based social network developed in C.
 
 ---
 
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kghada360-bit/kghada360-bit/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
+</p>
+
+---
+
+
 ## 📊 GitHub Statistics
 
 
