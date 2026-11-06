@@ -133,22 +133,39 @@ A weighted graph-based social network developed in C.
 
 
 
-## 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/kghada360-bit">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
-<div align="center">
 
-### ✨ Code. Learn. Create. Repeat.
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B72CF,50:35204F,100:171421&height=120&section=footer" width="100%"/>
+## 🤝 Connect With Me
 
-</div>
+<p align="center">
+  <a href="https://github.com/kghada360-bit">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ghada-kaabi-9b693b442/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Always open to learning, collaboration, and new opportunities.</i>
+</p>
+
+---
+
+
+
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7B2CBF,100:B78AFF&height=120&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <i>✨ Building my future, one project at a time. ✨</i>
+</p>
+
